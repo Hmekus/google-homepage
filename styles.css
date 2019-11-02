@@ -1,18 +1,7 @@
 .google-logo {
   text-align: center;
   padding-top: 109px;
-}
-
-.text-area {
-	width: 482px;
-	box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
-	border-color: rgba(223,225,229,0);
-	background: #fff;
-	border: 1px solid #dfe1e5;
-	border-radius: 24px;
-	z-index: 3;
-	height: 44px;
-	margin: 0 auto;
+  margin-top: 45px;
 }
 
 ul {
@@ -23,20 +12,64 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
   display: block;
   text-align: center;
   padding: 14px 16px;
+  line-height: 24px;
+  vertical-align: middle;
+  outline: none;
   text-decoration: none;
+  color: rgba(0,0,0,0.87);
+  font-family: arial,sans-serif;
+  font-size: 13px;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
+.text-area {
+  margin-left: 410px;
+  margin-top: 20px;
+  width: 482px;
+  box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+  border-color: rgba(223,225,229,0);
+  background: #fff;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  z-index: 3;
+  height: 44px;
 }
 
+.margin {
+  margin-left: 490px;
+}
 
+.search {
+  margin-left: 390px;
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  color: #5F6368;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  padding: 0 16px;
+  margin: 11px 4px;
+}
+
+.footer {
+  float: left;
+  margin-top: 130px;
+}
+
+.footer2 {
+  float: right;
+}
 
