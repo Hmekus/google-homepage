@@ -1,4 +1,4 @@
-Here i`ll try to build some site, where i should learn some tips and tricks of the web development.
+Here i`ll try to build page similar to google home page, thereby i should learn some tips and tricks of the web development.
 
 There are skills, which i have to know:
 
